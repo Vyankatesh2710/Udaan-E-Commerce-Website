@@ -1,0 +1,67 @@
+.img{
+    height: 300px;
+    width: 300px;
+    display: flex;
+}
+
+.card{
+    height: fit-content;
+    width: fit-content;
+    margin-top: 10px;
+    border-radius: 1px;
+    border-width: 1px;
+    border-color: black;
+    margin-bottom: 10px;
+}
+
+.tabs{
+    margin-left: 500px;
+    margin-right: 600px;
+    color: black;
+}
+
+.tab-list{
+    border-bottom: 1px solid #ccc;
+    padding-left: 0;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 10px;
+    display: inline-block flex;
+    margin: 4px;
+    padding: 0.5em 1.65em;
+    font-size: 15px;
+    list-style: none;
+    cursor: pointer;
+    color: white;
+    border: 2px solid transparent;
+    -webkit-border-radius: 30px;
+    -moz-border-radius:30px;
+    border-radius: 30px;
+}
+
+.tab-list-item{
+    display: inline-block;
+    list-style: none;
+    margin-bottom: -1px;
+    padding: 0.5rem 0.75rem;
+}
+
+.w1{
+    padding: 150px 0 350px;
+    margin: 0 auto;
+    text-align: center;
+    z-index: -1;
+    clear: both;
+    background-image: url('/src/Component/Images/parallax2.jpg');
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+.h2style{
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}

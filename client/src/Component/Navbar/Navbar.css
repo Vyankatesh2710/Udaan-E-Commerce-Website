@@ -1,0 +1,30 @@
+.mlink{
+    text-decoration: none;
+    color:azure !important;
+    font-family: cursive;
+    font-size: 15px;
+}
+
+.mynavbarbrand{
+    font-family: cursive;
+    font-size: 100px;
+}
+
+.mynavbarbrand:hover{
+    transition: 5ms;
+    cursor: pointer;
+}
+
+.icons1{
+    height:50px;
+    width: 50px;
+    margin: -5px;
+}
+
+.icons2{
+    transform: rotateY(180deg);
+    height: 50px;
+    width: 50px;
+    margin: -5px;
+}
+

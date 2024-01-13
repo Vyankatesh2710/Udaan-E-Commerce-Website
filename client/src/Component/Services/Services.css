@@ -1,0 +1,31 @@
+.icons {
+    width: 100px;
+    height: 100px;
+}
+
+.curveDownColor {
+    fill: #fff;
+    stroke: #fff;
+    position: absolute;
+    left: 0;
+    z-index: 1;
+}
+
+.curveDownColor {
+    margin-bottom: -100px;
+}
+
+.s1{
+    padding: 100px 0 100px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.h2style1{
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 50px;
+}
+
+
+
+

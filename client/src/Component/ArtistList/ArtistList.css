@@ -1,0 +1,65 @@
+.art-header{
+    display: flex;
+    flex-direction: row;
+    background-color: aliceblue;
+    margin: 10px;
+}
+
+.art-header h3{
+    color: black;
+    align-self: center;
+    margin: 10px;
+}
+
+.tabs{
+    background-color: aliceblue;
+}
+
+.card-title{
+    text-align: center;
+    color: white;
+    font-family: 'Times New Romen',Times,serif;
+}
+
+.img{
+    height: 300px;
+    width:300px;
+}
+
+.card{
+    height: fit-content;
+    width: fit-content;
+    margin-top: 10px;
+    border-radius: 10px;
+    border-width: 10px;
+    border-color: black;
+    margin-bottom: 10px;
+}
+
+.card-subtitle{
+    text-align: center;
+    color: white;
+    font-family: 'Times New Romen', Times,serif;
+}
+
+.ArtImg{
+    height: 100px !important;
+    width: 100px !important;
+}
+
+.card-title1{
+    color:black ;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.hstyle{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    align-items: center;
+}
+
+.w2{
+    padding: 10px 0 100px;
+    margin: 0 auto;
+    text-align: center;
+}

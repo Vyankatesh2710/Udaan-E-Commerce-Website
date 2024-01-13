@@ -1,0 +1,83 @@
+.Img {
+    height: 200px !important;
+    width: 100%;
+    left: 54ex;
+    object-fit: cover;
+    margin-bottom: 3px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.ArtImg {
+    position: relative;
+    bottom: 100px;
+    left: 30px;
+    height: 200px !important;
+    width: 200px !important;
+}
+
+.art-header {
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    margin: 10px;
+}
+
+.art-header h3 {
+    color: black;
+    align-self: center;
+    margin: 50px;
+    position: relative;
+    bottom: 80px;
+}
+
+.tabs-1 {
+    background-color: white;
+    position: relative;
+    bottom: 100px;
+    margin: 0;
+}
+
+.A1 {
+    margin: 50px;
+}
+
+.p1 {
+    background-image: url(/src/Component/Images/home.jpg);
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    color: white;
+    position: relative;
+    top: 0px;
+    bottom: 0px;
+    width: 50%;
+    margin: auto;
+}
+
+.p2 {
+    padding: 100px 0 100px;
+    margin: 0 auto;
+    text-align: center;
+    z-index: -1;
+    clear: both;
+
+
+    background-image: url(/src/Component/Images/parallax2.jpg);
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+.l4 {
+    margin-bottom: 20px;
+    width: 75%;
+    text-align: center;
+    position: relative;
+    left: 12.5%;
+    align-content: center;
+}
+
+.card1 {
+    background-color: black;
+}
